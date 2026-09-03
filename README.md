@@ -19,7 +19,7 @@ I love turning ideas into projects and making Python my ultimate tool (I used to
 - Cloud deployment (AWS, Azure)
 
 ## 📫 Connect with Me
-- GitHub: [@anje](https://github.com/pheonexy)
+- GitHub: [@pheonexy](https://github.com/pheonexy)
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/amal-benfateh)
 - Email: amal.benfateh@gmail.com
 
